@@ -1,0 +1,1 @@
+Ovaj kod predstavlja kostur projekta za izradu zadataka iz projektovanja softvera. Projekat je implementiran koriscenjem klijent-server arhitekture.
